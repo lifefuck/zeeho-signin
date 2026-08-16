@@ -1,0 +1,8 @@
+{
+  "app_id": "Sw5F9uJi",
+  "app_secret": "<YOUR_APP_SECRET>",
+  "user_id": "<YOUR_USER_ID>",
+  "authorization": "Bearer <YOUR_AUTHORIZATION_TOKEN>",
+  "cookie": "<YOUR_COOKIE>",
+  "user_agent": "<YOUR_USER_AGENT>"
+}
